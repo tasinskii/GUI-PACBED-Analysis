@@ -1,5 +1,5 @@
 # GUI-PACBED-Analysis
-This is a simple GUI tool based on the paper (paper) that used a convolutional neural network to determine the thickness of Position Averaged CBED patterns (PACBED). This repository contains the GUI tool and the necessary scripts for model training, data simulation, and data augmentation. <br />
+This is a simple GUI tool based on the paper (doi.org/10.1016/j.ultramic.2019.112921) that used a convolutional neural network to determine the thickness of Position Averaged CBED patterns (PACBED). This repository contains the GUI tool and the necessary scripts for model training, data simulation, and data augmentation. <br />
 #Initialization: <br />
 <img width="502" alt="Screenshot 2024-09-23 at 3 41 46 PM" src="https://github.com/user-attachments/assets/8ed3621f-c6b2-4729-8faf-d6cb2d76f796"><br />
 #Main window: <br />
